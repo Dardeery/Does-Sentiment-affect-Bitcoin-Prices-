@@ -25,9 +25,16 @@ Afterwards, I have taken the average polarity per day.
  
 The following diagram shows the basic ETL process starting from extracting the data from twitter API and Yahoo finance, into transforming and cleaning it through sentiment analysis model until loading the data into the data model and present it. 
 
-###  Data Visualization: 
-1. output of the data is presented on tableau
+### Data Analysis:
+conduct basic regression model as well as adding visualization to have a better understanding to the determaints of the dataset.
 
+###  Data Visualization: "next sprint" 
+1. output of the data is presented on tableau (through connecting tableau via Tabpy) [issue: due to tabpy server connection] 
+2. connect online data source to tableau [web data connector] 
+
+### ETL Flowchart
+
+![alt text](https://github.com/Dardeery/Does-Sentiment-affect-Bitcoin-Prices-/blob/main/visualizing%20the%20ETL%20model.JPG)
 
 
 ### References : 
