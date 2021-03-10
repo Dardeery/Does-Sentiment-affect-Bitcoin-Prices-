@@ -42,3 +42,4 @@ Sentiment : https://textblob.readthedocs.io/en/dev/
 Karalevičius, Vytautas. (2017). Using sentiment analysis to predict interday Bitcoin price movements. The Journal of Risk Finance. 19. 00-00. 10.1108/JRF-06-2017-0092.
 Twitter data : https://www.kaggle.com/alaix14/bitcoin-tweets-20160101-to-20190329
 Bitcoin prices :https://finance.yahoo.com/quote/BTC-USD/
+
